@@ -52,3 +52,17 @@ section {
     border: none;
   }
 }
+/* Mission page logo */
+.logo-block {
+  text-align: center;
+  font-size: 1rem;        /* ties logo size to text */
+  margin-bottom: 1.25em;
+}
+
+.logo {
+  height: 3em;            /* scales with text size */
+  width: auto;
+  display: block;
+  margin: 0 auto;
+  max-height: 120px;      /* safety limit */
+}
