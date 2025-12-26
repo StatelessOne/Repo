@@ -66,3 +66,10 @@ section {
   margin: 0 auto;
   max-height: 120px;      /* safety limit */
 }
+.page-mission p {
+  margin-top: 0;
+}
+
+.page-mission p + p {
+  margin-top: 0.75em;
+}
