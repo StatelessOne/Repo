@@ -60,7 +60,7 @@ section {
 }
 
 .logo {
-  height: 3em;            /* scales with text size */
+  height: 3.5em;            /* scales with text size */
   width: auto;
   display: block;
   margin: 0 auto;
