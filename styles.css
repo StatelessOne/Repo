@@ -73,3 +73,6 @@ section {
 .page-mission p + p {
   margin-top: 0.75em;
 }
+.page-mission .center-text {
+  text-align: center;
+}
