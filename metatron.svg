@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-120 -120 240 240">
+  <g fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2">
+    <!-- Outer circle -->
+    <circle r="100"/>
+
+    <!-- Flower of Life circles -->
+    <circle cx="0" cy="-57.7" r="57.7"/>
+    <circle cx="50" cy="-28.8" r="57.7"/>
+    <circle cx="50" cy="28.8" r="57.7"/>
+    <circle cx="0" cy="57.7" r="57.7"/>
+    <circle cx="-50" cy="28.8" r="57.7"/>
+    <circle cx="-50" cy="-28.8" r="57.7"/>
+
+    <!-- Metatron cube lines -->
+    <line x1="0" y1="-57.7" x2="50" y2="28.8"/>
+    <line x1="0" y1="-57.7" x2="-50" y2="28.8"/>
+    <line x1="50" y1="-28.8" x2="-50" y2="-28.8"/>
+    <line x1="50" y1="-28.8" x2="0" y2="57.7"/>
+    <line x1="-50" y1="-28.8" x2="0" y2="57.7"/>
+    <line x1="50" y1="28.8" x2="-50" y2="28.8"/>
+  </g>
+</svg>
